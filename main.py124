@@ -1,0 +1,5 @@
+hi = True
+if hi == True:
+    print("Succes!")
+else:
+    print("Not Succes")
